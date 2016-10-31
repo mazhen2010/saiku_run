@@ -121,7 +121,7 @@
     </filter-mapping>
 -->
 
-    <!-- BEGIN - Filter Definition --> 
+    <!-- BEGIN - Filter Definition -->
 	<filter>
 		<filter-name>org.springframework.security.filterChainProxy</filter-name>
 		<filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
@@ -304,7 +304,7 @@
 
 	  <servlet-mapping>
 	    <servlet-name>jersey2</servlet-name>
-	    <url-pattern>/rest/*</url-pattern>
+	    <url-pattern>/saiku/rest/*</url-pattern>
 	  </servlet-mapping>
 
   <!--<servlet-mapping>
