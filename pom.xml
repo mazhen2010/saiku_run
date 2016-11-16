@@ -1045,21 +1045,21 @@
                 <version>1.0.0</version>
             </dependency>
 
-            <dependency>
-                <groupId>org.apache.calcite</groupId>
-                <artifactId>calcite-core</artifactId>
-                <version>${calcite.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.calcite</groupId>
-                <artifactId>calcite-avatica</artifactId>
-                <version>${calcite.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.calcite</groupId>
-                <artifactId>calcite-mongodb</artifactId>
-                <version>${calcite.version}</version>
-            </dependency>
+            <!--<dependency>-->
+                <!--<groupId>org.apache.calcite</groupId>-->
+                <!--<artifactId>calcite-core</artifactId>-->
+                <!--<version>${calcite.version}</version>-->
+            <!--</dependency>-->
+            <!--<dependency>-->
+                <!--<groupId>org.apache.calcite</groupId>-->
+                <!--<artifactId>calcite-avatica</artifactId>-->
+                <!--<version>${calcite.version}</version>-->
+            <!--</dependency>-->
+            <!--<dependency>-->
+                <!--<groupId>org.apache.calcite</groupId>-->
+                <!--<artifactId>calcite-mongodb</artifactId>-->
+                <!--<version>${calcite.version}</version>-->
+            <!--</dependency>-->
             <dependency>
                 <groupId>com.cenqua.clover</groupId>
                 <artifactId>clover</artifactId>
